@@ -1,0 +1,6 @@
+,From,To,FlightNumber,Airline,Delay-1,Delay-2,Delay-3
+0,London,Paris,10045,KLM,23.0,47.0,
+1,Madrid,Milan,10055,Air France ,,,
+2,London,Stockholm,10065,British Airways ,24.0,43.0,87.0
+3,Budapest,Paris,10075, Air France,13.0,,
+4,Brussels,London,10085,Swiss Air,67.0,32.0,
